@@ -1,0 +1,40 @@
+git clone https://github.com/APICe-at-DISI/OOP-git-merge-conflict-test.git
+  462  git status
+  463  git status
+  464  git branch -a
+  465  git checkout -b feature
+  466  git branch -a
+  467  gir branch
+  468  git branch
+  469  git checkout master
+  470  git log --graph --all
+  471  git merge feature
+  472  git log --graph --all
+  473  git merge feature
+  474  git log --graph --all
+  475  git status
+  476  git log --graph --all
+  477  git branc -d feature
+  478  git branch -d feature
+  479  git log --graph --all
+  480  git branch -d feature
+  481  git checkout -b feature origin/feature
+  482  git checkout master
+  483  git merge feature
+  484  git status
+  485  nano HelloWorld.java
+  486  ls
+  487  git status
+  488  javac HelloWorld.java
+  489  java HelloWorld.java
+  490  ls
+  491  java HelloWorld
+  492  git status
+  493  git add HelloWorld.java
+  494  git status
+  495  git commiT
+  496  git commit
+  497  git log --graph --all
+  498  git branch
+  499  git branch -d feature
+  500  git push
